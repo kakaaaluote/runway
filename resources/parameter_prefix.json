@@ -1,0 +1,6 @@
+{
+    "account/register_test.py": {
+        "password": "vesync.account.password",
+        "email": "vesync.account.email"
+    }
+}

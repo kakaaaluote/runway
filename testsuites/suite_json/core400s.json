@@ -1,0 +1,5 @@
+{
+    "testcases": {
+        "account/register_test.py": ["core400s"]
+    }
+}

@@ -1,0 +1,5 @@
+{
+    "testcases": {
+        "account/test_register.py": ["core300s", "core300s.share"]
+    }
+}
