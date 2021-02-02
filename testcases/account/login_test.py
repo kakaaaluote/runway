@@ -1,8 +1,8 @@
 import pytest
 from httprunner import HttpRunner, Config, Step, RunRequest, Parameters
 
-from lib.testcase_file import TestCaseFile
-from lib.api_helper import APIHelper
+from runway.testcase_file import TestCaseFile
+from runway.api_helper import APIHelper
 
 
 class Login(HttpRunner):

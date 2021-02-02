@@ -1,5 +1,5 @@
 from httprunner import __version__
-from lib.api_helper import APIHelper
+from runway.api_helper import APIHelper
 
 api_helper = APIHelper()
 
